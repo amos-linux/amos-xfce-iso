@@ -561,10 +561,10 @@ edu-papirus-dark-tela-grey-git
 ############################################################################
 #                            ARCO Repos
 ###########################################################################
-arcolinux-keyring
-arcolinux-mirrorlist-git
+#arcolinux-keyring
+#arcolinux-mirrorlist-git
 archlinux-tweak-tool-git
-archlinux-logout-git
+#archlinux-logout-git
 
 
 ###########################################################################
