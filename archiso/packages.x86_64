@@ -559,6 +559,15 @@ edu-candy-beauty-tela-git
 edu-papirus-dark-tela-git
 edu-papirus-dark-tela-grey-git
 
+############################################################################
+#                            ARCO Repos
+###########################################################################
+arcolinux-keyring
+arcolinux-mirrorlist
+archlinux-tweak-tool-git
+archlinux-logout-git
+
+
 ###########################################################################
 #                           AMOS CONFIG FOLDER
 ###########################################################################
