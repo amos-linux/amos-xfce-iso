@@ -561,10 +561,11 @@ edu-papirus-dark-tela-grey-git
 ############################################################################
 #                            ARCO Repos
 ###########################################################################
-#arcolinux-keyring
-#arcolinux-mirrorlist-git
+arcolinux-keyring
+arcolinux-mirrorlist-git
 archlinux-tweak-tool-git
-#archlinux-logout-git
+archlinux-logout-git
+archlinux-logout-themes-git
 
 
 ###########################################################################
@@ -592,9 +593,8 @@ amos-system-installation-git
 #                                AMOS CONFIG CALAMARES
 ###########################################################################
 
-amos-calamares-xfce-config
-#amos-calamares-config-bspwm
-#amos-calamares-config-dev
+#amos-calamares-xfce-config
+amos-calamares-xfce-config-dev
 ###########################################################################
 #                                DISPLAY MANAGERS
 ###########################################################################
