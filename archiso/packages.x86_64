@@ -455,8 +455,8 @@ conky-lua-archers-git
 grub-customizer
 inxi
 #i3lock-color
-pamac-aur
-libpamac-aur
+#pamac-aur
+#libpamac-aur
 paru-bin
 #peek
 pulseaudio-equalizer-ladspa
@@ -566,7 +566,8 @@ arcolinux-mirrorlist-git
 archlinux-tweak-tool-git
 archlinux-logout-git
 archlinux-logout-themes-git
-
+arcolinux-pamac-all
+nordzy-icons-theme-git
 
 ###########################################################################
 #                           AMOS CONFIG FOLDER
