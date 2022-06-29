@@ -9,8 +9,5 @@ If you don't want the default theme to load after a reboot,just take it out the 
 
 If you need more software, and maybe a TWM like bspwm ,than there is NEMESIS in the .bin folder for you which will install nvidia ,a customised bspwm-desktop and lots of apps !
 
-You may download the Iso also here,if you don't want to build
-https://drive.google.com/file/d/18HKqlqoaVgYU9XUO4tBWNbXAPTEleMRa/view?usp=sharing
-
-or here at Sourceforge
+Download
 https://sourceforge.net/projects/amos-xfce-iso/
