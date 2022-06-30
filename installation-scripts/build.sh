@@ -20,7 +20,7 @@ echo
 	isoLabel='amos-xfce-'$amosVersion'-x86_64.iso'
 
 	# setting of the general parameters
-	archisoRequiredVersion="archiso 64-1"
+	archisoRequiredVersion="archiso 65-1"
 	buildFolder=$HOME"/amos-build"
 	outFolder=$HOME"/AmOs-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
