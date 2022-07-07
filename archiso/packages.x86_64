@@ -533,7 +533,7 @@ ttf-meslo-nerd-font-powerlevel10k
 ttf-ms-fonts
 halo-icons-git
 #visual-studio-code-bin
-#pfetch
+pfetch
 #shell-color-scripts
 amos-xfce-styles
 catppuccin-gtk-theme
@@ -568,6 +568,11 @@ archlinux-logout-git
 archlinux-logout-themes-git
 arcolinux-pamac-all
 nordzy-icon-theme-git
+spotify
+spotify-adblock-git
+ttf-wps-fonts
+wps-office
+wps-office-mime
 
 ###########################################################################
 #                           AMOS CONFIG FOLDER
