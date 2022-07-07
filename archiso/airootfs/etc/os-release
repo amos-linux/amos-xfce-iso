@@ -1,0 +1,7 @@
+NAME="AmOs"
+ID=amos
+ID_LIKE="arch"
+VERSION_ID=v2022-07-05
+ANSI_COLOR="0;36"
+HOME_URL="https://sourceforge.net/projects/amos-xfce-iso/"
+SUPPORT_URL="https://github.com/amanre/amos-xfce-iso"
