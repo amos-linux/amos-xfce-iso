@@ -1,7 +1,11 @@
 # amos-xfce-iso
 
 With that github you can build your own amos-xfce-iso
+<<<<<<< HEAD
 A fully themed xfce desktop including 75 themes just a klick away
+=======
+A fully themed xfce desktop including 71 themes just a klick away
+>>>>>>> ccfe65f4de186de975ef6c5dc09f8d29a6aa1f2b
 Rising the easy way!
 If you don't want the default theme to load after a reboot,just take it out the autostart!
 
