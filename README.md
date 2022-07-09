@@ -1,7 +1,6 @@
 # amos-xfce-iso
 
 With that github you can build your own amos-xfce-iso
-<<<<<<< HEAD
 A fully themed xfce desktop including 75 themes just a klick away
 
 Rising the easy way!
