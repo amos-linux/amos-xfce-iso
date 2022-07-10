@@ -595,7 +595,7 @@ amos-dconf-git
 
 amos-calamares
 amos-system-installation-git
-
+#amos-welcome
 ###########################################################################
 #                                AMOS CONFIG CALAMARES
 ###########################################################################
