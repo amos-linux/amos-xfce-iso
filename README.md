@@ -12,3 +12,6 @@ If you need more software, and maybe a TWM like bspwm ,than there is NEMESIS in 
 
 Download
 https://sourceforge.net/projects/amos-xfce-iso/
+
+Support 
+https://discord.gg/pCGGNn43EG
