@@ -452,7 +452,6 @@ mkinitcpio-openswap
 appstream
 archiso
 conky-lua-archers-git
-gruvbox-gtk-theme-git
 #glxinfo
 #gitahead
 #grub-customizer
