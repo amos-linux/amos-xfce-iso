@@ -17,12 +17,12 @@ echo
 
 	amosVersion='v22.08.03'
 
-	isoLabel='amos-xfce-'$amosVersion'-x86_64.iso'
+	isoLabel='amoslinux-xfce-'$amosVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 65-1"
 	buildFolder=$HOME"/amos-build"
-	outFolder=$HOME"/AmOs-Out"
+	outFolder=$HOME"/AmOs -Out"
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	echo "################################################################## "

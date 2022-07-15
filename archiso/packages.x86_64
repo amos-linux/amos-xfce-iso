@@ -89,7 +89,7 @@ pcsclite
 ppp
 pptpclient
 #pv
-qemu-guest-agent
+#qemu-guest-agent
 reflector
 reiserfsprogs
 rp-pppoe
