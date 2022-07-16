@@ -1,5 +1,5 @@
 NAME="AmOs Linux"
 ID=amoslinux
 ID_LIKE="arch"
-VERSION_ID=v2022-08-03
+VERSION_ID=v2022-08-04
 ANSI_COLOR="0;36"
