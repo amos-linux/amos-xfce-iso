@@ -11,3 +11,7 @@ If you need more software, and maybe a TWM like bspwm ,than there is NEMESIS in 
 
 Support 
 https://discord.gg/pCGGNn43EG
+
+Supporting The Project
+
+Please support the project by providing feedback via the support facilities provided on Sourceforge.
