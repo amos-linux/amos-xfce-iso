@@ -15,3 +15,4 @@ https://discord.gg/pCGGNn43EG
 Supporting The Project
 
 Please support the project by providing feedback via the support facilities provided on Sourceforge.
+https://sourceforge.net/projects/amos-xfce-iso/
