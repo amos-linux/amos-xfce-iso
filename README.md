@@ -14,5 +14,8 @@ https://discord.gg/pCGGNn43EG
 
 Supporting The Project
 
-Please support the project by providing feedback via the support facilities provided on Sourceforge.
+Please support the project by providing feedback via the support facilities provided on Sourceforge and on Distrowatch.
 https://sourceforge.net/projects/amos-xfce-iso/
+https://distrowatch.com/dwres.php?resource=links#new
+
+Thanks and have fun with AmOs Linux !
