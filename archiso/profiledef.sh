@@ -2,9 +2,9 @@
 # shellcheck disable=SC2034
 
 iso_name="AmOs Linux-xfce"
-iso_label="amoslinux-xfce-v22.08.03"
+iso_label="amoslinux-xfce-v22.08.05"
 iso_application="AmOs Linux Live/Rescue CD"
-iso_version="v22.08.04"
+iso_version="v22.08.05"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')

@@ -457,8 +457,6 @@ conky-lua-archers-git
 #grub-customizer
 inxi
 #i3lock-color
-pamac-aur
-libpamac-aur
 paru-bin
 #peek
 pulseaudio-equalizer-ladspa
@@ -564,11 +562,12 @@ edu-papirus-dark-tela-grey-git
 ############################################################################
 #                            ARCO 
 ###########################################################################
-
+arcolinux-keyring
+arcolinux-mirrorlist-git
 archlinux-tweak-tool-git
 archlinux-logout-git
 archlinux-logout-themes-git
-
+arcolinux-pamac-all
 
 ###########################################################################
 #                           AMOS CONFIG FOLDER
