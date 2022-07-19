@@ -276,6 +276,7 @@ poppler-qt5
 
 ###applications
 alacritty
+brave-bin
 #chromium
 #darktable
 #deadbeef
@@ -289,23 +290,23 @@ galculator
 geany
 geany-plugins
 am-geany-config-git
-#gimp
+gimp
 #gmrun
 #gsimplecal
 guvcview
 imagemagick
-#inkscape
-#libreoffice-fresh
+inkscape
+libreoffice-fresh
 lshw
 meld
 #nitrogen
 numlockx
-#pragha
-#qbittorrent
+pragha
+qbittorrent
 ranger
 scrot
 simplescreenrecorder
-#vlc
+vlc
 
 ###conky
 jq
@@ -366,7 +367,7 @@ gnome-screenshot
 #gnome-software-packagekit-plugin
 gparted
 gpick
-#gtop
+gtop
 hardinfo-gtk3
 hblock
 hddtemp
@@ -407,7 +408,7 @@ ripgrep
 simple-scan
 #sardi-icons
 #shotwell
-#telegram-desktop
+telegram-desktop
 #timeshift
 #grub-btrfs
 #timeshift-autosnap
