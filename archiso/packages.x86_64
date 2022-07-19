@@ -596,7 +596,8 @@ amos-system-installation-git
 ###########################################################################
 
 #amos-calamares-xfce-config
-amos-calamares-xfce-config-dev
+#amos-calamares-xfce-config-dev
+amos-calamares-xfce-bspwm-config
 ###########################################################################
 #                                DISPLAY MANAGERS
 ###########################################################################

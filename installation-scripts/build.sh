@@ -15,14 +15,14 @@ echo
 	desktop="xfce"
 	dmDesktop="xfce"
 
-	amosVersion='v22.08.03'
+	amosVersion='v22.08.04'
 
 	isoLabel='amoslinux-xfce-'$amosVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 65-1"
 	buildFolder=$HOME"/amos-build"
-	outFolder=$HOME"/AmOs -Out"
+	outFolder=$HOME"/AmOsLinux-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	echo "################################################################## "
@@ -177,18 +177,18 @@ echo
 	#Setting variables
 
 	#profiledef.sh
-	oldname1='iso_name="amos-xfce'
-	newname1='iso_name="amos-xfce'
+	oldname1='iso_name="amoslinux-xfce'
+	newname1='iso_name="amoslinux-xfce'
 
-	oldname2='iso_label="amos-xfce'
-	newname2='iso_label="amos-xfce'
+	oldname2='iso_label="amoslinux-xfce'
+	newname2='iso_label="amoslinux-xfce'
 
-	oldname3='AmOs'
-	newname3='AmOs'
+	oldname3='AmOsLinux'
+	newname3='AmOsLinux'
 
 	#hostname
-	oldname4='AmOs'
-	newname4='AmOs'
+	oldname4='AmOsLinux'
+	newname4='AmOsLinux'
 
 	#sddm.conf user-session
 	oldname5='Session=xfce'
