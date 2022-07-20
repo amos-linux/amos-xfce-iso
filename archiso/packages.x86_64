@@ -276,7 +276,6 @@ poppler-qt5
 
 ###applications
 alacritty
-brave-bin
 #chromium
 #darktable
 #deadbeef
@@ -299,7 +298,7 @@ inkscape
 libreoffice-fresh
 lshw
 meld
-#nitrogen
+nitrogen
 numlockx
 pragha
 qbittorrent
@@ -355,7 +354,7 @@ dmidecode
 evince
 expac
 file-roller
-#filezilla
+filezilla
 git
 glava
 #gksu
@@ -450,12 +449,15 @@ zsh-syntax-highlighting
 mkinitcpio-openswap
 
 ###utilities-repo
+pamac-aur-git
+archlinux-appstream-data-pamac
+libpamac-git
 appstream
 archiso
 conky-lua-archers-git
 #glxinfo
 #gitahead
-#grub-customizer
+grub-customizer
 inxi
 #i3lock-color
 paru-bin
@@ -549,7 +551,6 @@ yaru-colors-gtk-theme
 yaru-colors-icon-theme
 yaru-gtk-theme
 yaru-icon-theme
-
 ############################################################################
 #                            Nemesis Repo
 ###########################################################################
@@ -568,7 +569,7 @@ arcolinux-mirrorlist-git
 archlinux-tweak-tool-git
 archlinux-logout-git
 archlinux-logout-themes-git
-arcolinux-pamac-all
+#arcolinux-pamac-all
 
 ###########################################################################
 #                           AMOS CONFIG FOLDER
@@ -596,8 +597,8 @@ amos-system-installation-git
 ###########################################################################
 
 #amos-calamares-xfce-config
-#amos-calamares-xfce-config-dev
-amos-calamares-xfce-bspwm-config
+amos-calamares-xfce-config-dev
+#amos-calamares-xfce-bspwm-config
 ###########################################################################
 #                                DISPLAY MANAGERS
 ###########################################################################
