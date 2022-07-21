@@ -60,3 +60,7 @@ echo "#################################"
 rm /usr/local/bin/amos-before
 rm /usr/local/bin/amos-final
 rm /usr/local/bin/amos-displaymanager-check
+rm /usr/local/bin/Installation_guide
+rm /usr/local/bin/livecd-sound
+rm /usr/local/bin/choose-mirror
+
