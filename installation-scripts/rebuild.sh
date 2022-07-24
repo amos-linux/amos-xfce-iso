@@ -15,9 +15,9 @@ echo
 	desktop="xfce"
 	dmDesktop="xfce"
 
-	amosVersion='v22.08.05'
+	amosVersion='v22.08.06'
 
-	isoLabel='amoslinux-xfce-'$amosVersion'-x86_64.iso'
+	isoLabel='AmOsLinux-xfce-'$amosVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 65-1"
